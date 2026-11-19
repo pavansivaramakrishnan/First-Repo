@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Im learing GitHub on windows
-I like using github
+=======
+Im learning Git from claude
+>>>>>>> conflict-test
